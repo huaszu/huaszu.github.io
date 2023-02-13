@@ -176,6 +176,7 @@ header {
 
 .section__subtitle--intro {
     display: inline-block;
+    color:black;
 }
 
 @media (min-width: 600px) {
@@ -219,6 +220,10 @@ header {
 
 .about-me__img {
     box-shadow: var(--bs);
+}
+
+.about-me__body {
+    color:black;
 }
 
 @media (min-width: 600px) {
