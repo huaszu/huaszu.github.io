@@ -124,6 +124,7 @@ h3 {
 
 .section__title--intro {
     font-weight: var(--fw-reg);
+    color:black;
 }
 
 .section__title--intro strong {
